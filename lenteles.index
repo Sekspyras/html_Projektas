@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Mano pirmas html</title>
+</head>
+	<body>
+		<h1>Table</h1>
+		<!-- Lenteliu kurimas -->
+		<table>
+			<tr>
+				<th>Vardas</th>
+				<th>El. pastas</th>
+				<th>Pareigos</th>
+			</tr>
+				<td>Vardenis</td>
+				<td>Pavardenis</td>
+
+	</body>
+	</html>
